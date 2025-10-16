@@ -1,41 +1,43 @@
-# Привет! 👋 Я - Нане Айвазян 💻🎨  
+# Hey there! 👋 I’m Nane Ayvazyan 💻✨
 
-🌸 Frontend-разработчица & UI/UX дизайнерка с душой 🌸  
+🌸 Full Stack Developer with a creative soul 🌸
 
 <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="220"/>  
 
 ---
 
-## 🌟 Немного обо мне  
+## 🌟 A little about me
 
-✨ У меня **4+ года опыта** как Frontend-разработчицы  
-✨ И более **2 лет** как UI/UX дизайнерки  
-✨ Я люблю создавать интерфейсы, которые не только работают, но и радуют глаз  
+✨ 4+ years of experience as a Full Stack Developer
+✨ Passionate about building modern web apps from idea to launch
+✨ I love crafting products that work smoothly and look great
 
 ---
 
-## 🛠️ Технологии, с которыми я дружу  
+## 🛠️ Tech I vibe with
 
-- ⚛️ **React**  
-- ⏭️ **Next.js**  
-- 🎨 **Figma**  
+⚛️ React.js
+⏭️ Next.js
+🧠 Node.js
+💾 MongoDB / PostgreSQL
+🎨 Figma (because clean UI matters too!)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220"/>  
 
 ---
 
-## 💡 Что я ценю в работе  
+## 💡 What I value at work
 
-- Удобство для пользователей 👩‍💻  
-- Красивый и чистый код ✨  
-- Дизайн, который работает, а не просто существует 🎉  
+👩‍💻 Writing clean, scalable, and maintainable code
+⚙️ Building smooth and intuitive user experiences
+🌱 Constant learning and sharing knowledge with the team
 
 <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200"/>  
 
 ---
 
-## 📬 Свяжитесь со мной  
+## 📬 Let’s connect!
 
-- 💌 Пишите мне, буду рада пообщаться!  
+💌 Feel free to reach out - always happy to chat or collaborate!
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>  
