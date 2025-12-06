@@ -8,7 +8,7 @@
 
 ## 🌟 A little about me
 
-✨ 4+ years of experience as a Full Stack Developer
+✨ 5+ years of experience as a Full Stack Developer
 ✨ Passionate about building modern web apps from idea to launch
 ✨ I love crafting products that work smoothly and look great
 
